@@ -7,4 +7,4 @@
 ---
 
 
-![](https://keeganrichard.github.io/images/me-camera.JPG)
+![](https://raw.githubusercontent.com/KeeganRichard/keeganrichard.github.io/master/images/me-camera.JPG)
